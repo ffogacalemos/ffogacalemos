@@ -29,13 +29,6 @@ Tenho uma base sólida em **Infraestrutura de TI e Suporte (N1/N2)**, com experi
 
 ---
 
-### 📊 GitHub Stats
-
-![Fabrício's GitHub stats](https://github-readme-stats.vercel.app/api?username=ffogacalemos&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffogacalemos&layout=compact&theme=dracula)
-
----
-
 ### 📫 Contato
 
 Sinta-se à vontade para entrar em contato para falar sobre tecnologia, dados ou oportunidades!
